@@ -7,3 +7,4 @@ My To-Do List
 6. Schedule weekly coding practice sessions
 7. Back up all project files and code repositories
 8. Attend at least one tech workshop
+
